@@ -11,7 +11,7 @@
 ![image](https://github.com/gyujin00/Mid-Term-Project/assets/165674525/89ed2f5a-12c6-4dd1-9b44-82c8e3a00fad)
 ![image](https://github.com/gyujin00/Mid-Term-Project/assets/165674525/c65b4db9-3a4a-485e-8712-f6ce7e3b02a8)
 
-자기소개 웹사이트 링크: 
+자기소개 웹사이트 링크: https://gyujin00.github.io/Mid-Term-Project/meyawo/public_html/index.html
 
 
 
